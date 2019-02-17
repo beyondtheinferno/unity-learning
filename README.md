@@ -6,7 +6,7 @@ Exploring Unity with 2D and 3D tutorial projects via various content available o
 
 **INTERFACE & ESSENTIALS**
 
-- [ ] Using Unity Interface
+- [x] Using Unity Interface
 - [ ] Essential Unity Concepts
 - [ ] Live Session on Unity Interface and Essentials
 
