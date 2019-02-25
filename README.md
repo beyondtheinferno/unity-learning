@@ -10,6 +10,10 @@ Exploring Unity with 2D and 3D tutorial projects via various content available o
 - [ ] Essential Unity Concepts
 - [ ] Live Session on Unity Interface and Essentials
 
+**USER INTERFACE**
+
+- [x] Creating a Tic-Tac-Toe game using only the UI
+
 **XR**
 
 - [ ] Getting Started with VR
